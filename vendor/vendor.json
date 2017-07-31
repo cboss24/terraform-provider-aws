@@ -283,6 +283,14 @@
 			"versionExact": "v1.10.17"
 		},
 		{
+			"checksumSHA1": "hxexHJf5LWfELTK4wImDFlBJYfc=",
+			"path": "github.com/aws/aws-sdk-go/service/batch",
+			"revision": "e0223293ab40c06fad94970678748486705f8d0f",
+			"revisionTime": "2017-07-27T02:40:03Z",
+			"version": "v1.10.17",
+			"versionExact": "v1.10.17"
+		},
+		{
 			"checksumSHA1": "mWpN7HwcqV0C4uHM6+vSFZeelFo=",
 			"path": "github.com/aws/aws-sdk-go/service/cloudformation",
 			"revision": "e0223293ab40c06fad94970678748486705f8d0f",
@@ -1200,5 +1208,5 @@
 			"versionExact": "v1.6.1"
 		}
 	],
-	"rootPath": "github.com/terraform-providers/terraform-provider-aws"
+	"rootPath": "github.com/cboss24/terraform-provider-aws"
 }
